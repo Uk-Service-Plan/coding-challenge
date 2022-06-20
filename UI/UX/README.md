@@ -3,7 +3,7 @@
 ## How to participate
 
 1. Read the instructions carefully.
-2. When you're ready to start the test, make sure you init an empty canvas and share the link by email to **choujai.imtiyaz@gmail.com** with the object **UI/UX Challenge UI/UX Designer application by FirstName LastName**, it'll be considered as the time your started working on the challenge.
+2. When you're ready to start the test, make sure you init an empty canvas and share the link by email to **souhail.kaoussi@hi5group.co.uk** with the object **UI/UX Challenge UI/UX Designer application by FirstName LastName**, it'll be considered as the time your started working on the challenge.
 3. Once you're done with the challenge, reply again by email to notify us you're done with it.
 
 Make sure you spare an **average of 2 days**, and a **maximum of 7 days** to work on the challenge.
